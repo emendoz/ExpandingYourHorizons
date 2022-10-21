@@ -7,4 +7,4 @@ Programs done for STEM teaching event.
   
   Quick Demo Video below:
   
-  ![Demo Video](demos/virtualdiceDEMO.mov)
+  ![Demo Video](demos/virtualdice.mov)
